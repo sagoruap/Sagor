@@ -1,7 +1,6 @@
 ### Hi there 👋, My Name is MD.SAGOR AHMED
 #### I am full stack network Engineer
-![I am full stack network engineer](https://img.freepik.com/free-vector/flat-minimal-technology-social-media-cover-template_23-2149091071.jpg?w=1060&t=st=1695658910~exp=1695659510~hmac=27e06b1f25bab89ff66636bac8572feb56df958409e40f0bb7deaee46b66d762)
-
+![I am full stack network engineer]
 Hello, my name is [sagor ahmed  ], and I am a computer science student.
 
 I love learning how computers work, how they interact with the human world, and what makes them tick. I am excited to learn more about this field and continue contributing to the world around me through technology.
